@@ -1,0 +1,12 @@
+#Worlds
+Worlds:
+  #Configuration d'un monde
+  world:
+    #Temps en secondes d'une journée
+    day: 600
+    #Temps en secondes d'une nuit
+    night: 600
+    #Fige le monde, 0 = inactif, day = figé le jour, night = figé la nuit (NE FONCTIONNE PAS ENCORE)
+    freeze: 0
+    #Vitesse de refraichissement du temps, un chiffre trop faible peut nuir aux performances !!!!
+    refresh: 20

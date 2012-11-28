@@ -1,0 +1,10 @@
+name: TimeControl
+main: fr.minekahest.core.TimeControl
+version: 0.1
+author: Likaos
+
+commands:
+   timecontrol:
+      description: Gestion du temps 
+      usage: /<command> [day | night | all] [temps en secondes] [refresh]
+      aliases: tc
